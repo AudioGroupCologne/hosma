@@ -27,3 +27,5 @@ part 6: 60<br>
 part 7: 81<br> 
 part 8: 18<br> 
 <br> 
+
+PRINT WITH CONDUCTIVE PLA! 
