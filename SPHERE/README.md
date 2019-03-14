@@ -1,17 +1,17 @@
-   _    _  _____  _____ __  __            ______     
-  | |  | |/ __// / ____|  \/  |   /\     |____  |    
-  | |__| | | // | (___ | \  / |  /  \        / / __  
-  |  __  | |//| |\___ \| |\/| | / /\ \      / / '_ \ 
-  | |  | | //_| |____) | |  | |/ ____ \    / /| | | |
-  |_|  |_|//___/|_____/|_|  |_/_/    \_\  /_/ |_| |_|
+ _    _  _____  _____ __  __            ______     
+| |  | |/ __// / ____|  \/  |   /\     |____  |    
+| |__| | | // | (___ | \  / |  /  \        / / __  
+|  __  | |//| |\___ \| |\/| | / /\ \      / / '_ \ 
+| |  | | //_| |____) | |  | |/ ____ \    / /| | | |
+|_|  |_|//___/|_____/|_|  |_/_/    \_\  /_/ |_| |_|
                                                      
                                                      
-	High Order Spherical Microphone Array
+High Order Spherical Microphone Array
 
 
-%             University of Applied Sciences Cologne
-%             Institute of Communications Engineering
-%             Department of Acoustics and Audio Signal Processing
+University of Applied Sciences Cologne
+Institute of Communications Engineering
+Department of Acoustics and Audio Signal Processing
 
 
 
@@ -20,8 +20,8 @@ Diameter: 240 mm
 Wall thickness: 5 mm
 Multicore holes: Diameter 28 mm
 Array rotation for front marker (cross) in x direction:
-	45° around z-axis
-	15° around x-axis
+45° around z-axis
+15° around x-axis
 
 
 Part nummeration:
