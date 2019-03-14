@@ -1,6 +1,6 @@
 # HØSMA 7n
 High Order Spherical Microphone Array
-<br> 
+<br><br> 
 University of Applied Sciences Cologne<br> 
 Institute of Communications Engineering<br> 
 Department of Acoustics and Audio Signal Processing<br> 
