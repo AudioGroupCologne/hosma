@@ -7,8 +7,8 @@ Department of Acoustics and Audio Signal Processing<br>
 <br> 
 <br> 
 <br> 
-# Print all parts from /HOSMA/SPHERE/PRINTABLE_PARTS/ with conductive PLA for best shielding
-# Print microphone tubes from /HOSMA/MICROPHONE_TUBE/ with NOT conductive PLA
-# Microphone tubes are designed for Sennheiser KE14 capsules with corresponding Sennheiser converter circuit board
-
-# HØSMA 7n is distributed as Open Source Hardware 
+Print all parts from /HOSMA/SPHERE/PRINTABLE_PARTS/ with conductive PLA for best shielding<br> 
+Print microphone tubes from /HOSMA/MICROPHONE_TUBE/ with NOT conductive PLA<br> 
+Microphone tubes are designed for Sennheiser KE14 capsules with corresponding Sennheiser converter circuit board<br> 
+<br> 
+HØSMA 7n is distributed as Open Source Hardware <br> 
