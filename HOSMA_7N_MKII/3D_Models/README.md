@@ -1,9 +1,9 @@
 ﻿# 3D Models
 
 
-<img src = "1.png">
-<img src = "2.png">
-<img src = "3.png">
+<img src = "1.PNG">
+<img src = "2.PNG">
+<img src = "3.PNG">
 <br> 
 
 
