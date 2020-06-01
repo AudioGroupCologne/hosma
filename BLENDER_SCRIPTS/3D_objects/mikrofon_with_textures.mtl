@@ -1,0 +1,43 @@
+# Blender MTL File: 'mikrofon_with_textures.blend'
+# Material Count: 4
+
+newmtl Copper
+Ns 844.317550
+Ka 0.731429 0.731429 0.731429
+Kd 0.350556 0.085525 0.014676
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl MikrofonMembran
+Ns 613.623680
+Ka 0.554286 0.554286 0.554286
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\Oscar Moschner\\Desktop\\alvarocabrera101200044.jpg
+
+newmtl SchwarzPlastic
+Ns 131.921633
+Ka 0.417143 0.417143 0.417143
+Kd 0.002063 0.002063 0.002063
+Ks 0.580000 0.580000 0.580000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl metallic
+Ns 900.000000
+Ka 0.920000 0.920000 0.920000
+Kd 0.559600 0.559600 0.559600
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.750000
+d 1.000000
+illum 1
