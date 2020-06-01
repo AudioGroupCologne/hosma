@@ -2,10 +2,10 @@
 
 <br>
 
-## [ 3D Models ](3D_Models/README.md)
-## [ Microphone Tube ](Microphone_Tube/README.md)
+## [ 3D Models ](3D_Models/)
+## [ Microphone Tube ](Microphone_Tube/)
 ## [ Assembly Instructions ](Assembly_Instructions/README.md)
-## [ Example Audio Recordings ](Example_Audio_Recordings/README.md)
+## [ Example Audio Recordings ](Example_Audio_Recordings/)
 
 <br>
 <br>
