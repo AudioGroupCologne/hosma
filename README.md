@@ -1,6 +1,6 @@
 ﻿# Development of an Open Source Customizable High Order Rigid Sphere Microphone Array
 
-### Welcome to our GitHub page to our corresponding [ AES E-Brief paper ](www.google.de), in which we describe the development of a high order rigid sphere microphone array with a customizable design concept.
+### Welcome to our GitHub page to our corresponding [ AES E-Brief paper ](http://www.aes.org/e-lib/browse.cfm?elib=20821), in which we describe the development of a high order rigid sphere microphone array with a customizable design concept.
 <br>
 
 ## HØSMA 7N MKII Prototype
